@@ -1,7 +1,6 @@
 - --------------------
 - 👋 @mokyii
 - 🏫 FTN, RA
-- 📚 C/C++/C#/Solidity/Java/JavaScript/Assembly (beginner-intermediate level)
 - --------------------
 
 <!---
