@@ -1,6 +1,6 @@
 - --------------------
 - 👋 @babicmihailo
-- 🏫 FTN, RA
+- 🏫 BSc Computer & Electrical Engineering
 - --------------------
 
 <!---
